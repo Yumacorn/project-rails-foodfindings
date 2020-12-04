@@ -1,1 +1,0 @@
-# project-rails-foodfindings
