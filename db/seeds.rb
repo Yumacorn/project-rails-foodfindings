@@ -6,5 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-User.create(name: "Ryan", username: "Yumacorn", city: "Selden", state: "NY")
+User.create(name: "Ryan", username: "Yumacorn", email: "ryan@gmail.com", city: "New York", state: "NY")
+User.create(name: "Adela", username: "flippy", email: "adela@gmail.com", city: "Hauppage", state: "NY")
+
 #Possibly add a reference key? shouldn't need it
